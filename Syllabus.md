@@ -14,7 +14,7 @@
   - Introduction to control flow
 - ### Game
   - Start with 1-D list
-  - Demonstrate indexing, variable assignment
+  - Indexing, variable assignment
 ## Week 3
 - ### Theory
   - *Recap*
@@ -29,32 +29,34 @@
   - Functions
 - ### Game
   - **Checkpoint 2** - Refactored version with functions
+  - Begin Implementing game rules - turns, winning conditions
+  - **Checkpoint 3** - Grid with alternate *X* and *O* plotting and turns
 ## Week 5
 - ### Theory
   - *Recap*
-  - Finish control flow
+  - Error handling
 - ### Game
-  - Iterating through the grid
-  - Progress to 2-D grid
+  - **Checkpoint 4** - Game with winning conditions and basic error handling
 ## Week 6
 - ### Theory
   - *Recap*
-  - Finish control flow
+  - Classes and Objects
 - ### Game
-  - Iterating through the grid
-  - Progress to 2-D grid
-
-
-## Tic-Tac-Toe
-
-- Start with 1-D list. Demonstrate indexing, variable assignment, iteration.
-- Progress to 2-D grid
-- **Checkpoint 1** - Have a 2-D grid with ability to place *X* or *O*
-- **Checkpoint 2** - Refactored version with functions
-- Implement game rules (**Checkpoint 3** - turns, **Checkpoint 4** - winning conditions & basic error-handling)
-- **Checkpoint 5** - Fully working imperative version of game
-- **Checkpoint 6** - Refactor code into OO style
-- **Checkpoint 7** - Formatting and UI
-### Extension - Single Player Mode
-- Simple random plotting
-- More intelligent plotting
+  - **Checkpoint 5** - Fully working imperative version of game
+  - Begin refactoring code into OO style
+## Week 7
+- ### Theory
+  - *Recap*
+  - Principles of OOP and other paradigms
+- ### Game
+  - Continue refactoring into OO style
+  - **Checkpoint 6** - Fully working OO version of the game
+## Week 8
+- ### Theory
+  - *Recap*
+  - Advanced formatting
+- ### Game
+  - **Checkpoint 7** (Optional) - Advanced formmating and UI
+  
+- ## Extension
+  - Single player mode - build up a simple AI that plays as an opponent
