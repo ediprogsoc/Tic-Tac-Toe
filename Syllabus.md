@@ -1,5 +1,5 @@
 # Syllabus for Semester 2 (Tic-Tac-Toe Game)
-
+> **Format:** One week of learning basic concepts, and then each subsequent week members work on the game in parallel with learning new concepts.
 ## Week 1
 - ### Theory
   - Variables & basic operations
