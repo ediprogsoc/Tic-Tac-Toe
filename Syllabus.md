@@ -4,7 +4,7 @@
 - ### Theory
   - Variables & basic operations
   - Types
-  - Printing to console (including `printf()` & `\n`)
+  - Printing to console (including `print(f'')` & `\n`)
 - ### Game
   - None
 ## Week 2
