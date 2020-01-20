@@ -19,6 +19,7 @@
 - ### Theory
   - *Recap*
   - Finish control flow
+  - Introduce functions
 - ### Game
   - Iterating through the grid
   - Progress to 2-D grid
