@@ -4,7 +4,7 @@
 - ### Theory
   - Variables & basic operations
   - Types
-  - Printing to console (including `print(f'')` & `\n`)
+  - Printing to console (including `print("".format())` & `\n`)
 - ### Game
   - None
 ## Week 2
