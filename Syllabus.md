@@ -24,9 +24,14 @@
 ## Week 4
 - ### Theory
   - *Recap*
+  - Objects and classes
+  
+## Week 5
+- ### Theory
+  - *Recap*
   - Algorithms and problem solving
 
-## Week 5
+## Week 6
 - ### Theory
   - *Recap*
   - Minimax and αβ pruning
