@@ -52,4 +52,4 @@
   - Begin refactoring code into OO style
   - Continue refactoring into OO style
   - **Checkpoint 6** - Fully working OO version of the game
-  - **Checkpoint 7** (Optional) - Advanced formmating and UI
+  - **Checkpoint 7** (Optional) - Advanced formatting and UI
